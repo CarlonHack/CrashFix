@@ -21,5 +21,3 @@ sleep 5
 echo ""
 echo -e "\033[32mOyundan Atma Onarıldı\033[0m"
 echo ""
-"
- Carlon Hack\033[0m"3[0m""\033[0m"0m"0m"[0m"
