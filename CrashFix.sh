@@ -20,4 +20,3 @@ echo -e "\033[32mLog Temizleniyor...\033[0m"
 sleep 5
 echo ""
 echo -e "\033[32mOyundan Atma Onarıldı\033[0m"
-echo ""
