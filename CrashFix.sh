@@ -21,5 +21,6 @@ sleep 5
 echo ""
 echo -e "\033[32mCrash Fix Aktiflendi!\033[0m"
 echo ""
+sleep 2
 cmatrix
 sleep 999999999999
